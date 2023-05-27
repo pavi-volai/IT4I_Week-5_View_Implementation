@@ -1,2 +1,3 @@
 # MEMBERS
 OLAES, TOLEDO, VALLIDO, AGUILAR
+PS.UPLOAD ADMIN LTE in assets folder before RUN.
